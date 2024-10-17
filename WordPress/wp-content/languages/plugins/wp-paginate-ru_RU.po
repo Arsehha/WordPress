@@ -1,0 +1,164 @@
+# Translation of Plugins - WP-Paginate - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WP-Paginate - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-11-17 09:24:25+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.11\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WP-Paginate - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://www.studiofuel.com"
+msgstr "http://www.studiofuel.com"
+
+#. Author of the plugin/theme
+msgid "Noah Cinquini"
+msgstr "Noah Cinquini"
+
+#. Description of the plugin/theme
+msgid "A simple and flexible pagination plugin for WordPress posts and comments."
+msgstr "Простой и адаптивный плагин навигации для записей и комментариев WordPress."
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.studiofuel.com/wp-paginate/"
+msgstr "http://www.studiofuel.com/wp-paginate/"
+
+#. Plugin Name of the plugin/theme
+msgid "WP-Paginate"
+msgstr "WP-Paginate"
+
+#: wp-paginate.php:389
+msgid "Other Links"
+msgstr "Другие ссылки"
+
+#: wp-paginate.php:387
+msgid "Review WP-Paginate on the WordPress Plugins Page"
+msgstr "Оцените WP-Paginate на странице плагина на WordPress.org"
+
+#: wp-paginate.php:386
+msgid "Report issues, provide feedback, request features, etc."
+msgstr "Сообщения о ошибках, обратная связь, пожелания и улучшения, пр."
+
+#: wp-paginate.php:385
+msgid "Blog about or link to WP-Paginate so others can find out about it"
+msgstr "Напишите в блоге или добавьте ссылку на WP-Paginate, чтобы другие смогли о нём узнать"
+
+#: wp-paginate.php:384
+msgid "Translate WP-Paginate into your language"
+msgstr "Переведите WP-Paginate на ваш язык"
+
+#: wp-paginate.php:382
+msgid "If you would like to contribute, the following is a list of ways you can help:"
+msgstr "Если вы хотите помочь с развитием плагина, следующий список поможет решить что вы можете сделать:"
+
+#: wp-paginate.php:381
+msgid "Want To Contribute?"
+msgstr "Хотите помочь?"
+
+#: wp-paginate.php:380
+msgid "For questions, issues or feature requests, please post them in the %s and make sure to tag the post with wp-paginate."
+msgstr "Вопросы, проблемы или пожелания по функциям публикуйте в %s и обязательно помечайте сообщение тегом wp-paginate."
+
+#: wp-paginate.php:379
+msgid "Need Support?"
+msgstr "Нужна помощь?"
+
+#: wp-paginate.php:372
+msgid "The minimum number of pages in a gap before an ellipsis (...) is added. Recommended value: 3"
+msgstr "Минимальное количество страниц в промежутке перед добавлением многоточия (...). Рекомендуемое значение: 3"
+
+#: wp-paginate.php:365
+msgid "Page Gap:"
+msgstr "Разрыв страницы:"
+
+#: wp-paginate.php:362
+msgid "The number of links to always show at beginning and end of pagination. Recommended value: 1"
+msgstr "Количество ссылок, которые всегда отображаются в начале и в конце разбиения на страницы. Рекомендуемое значение: 1"
+
+#: wp-paginate.php:355
+msgid "Page Anchors:"
+msgstr "Якоря страницы:"
+
+#: wp-paginate.php:352
+msgid "The number of page links to show before and after the current page. Recommended value: 3"
+msgstr "Количество ссылок на страницы, отображаемых до и после текущей страницы. Рекомендуемое значение: 3"
+
+#: wp-paginate.php:345
+msgid "Page Range:"
+msgstr "Диапазон страниц:"
+
+#: wp-paginate.php:342
+msgid "Include the default stylesheet wp-paginate.css? WP-Paginate will first look for <code>wp-paginate.css</code> in your theme directory (<code>themes/%s</code>)."
+msgstr "Включить таблицу стилей по умолчанию wp-paginate.css? WP-Paginate сначала будет искать <code>wp-paginate.css</code> в каталоге вашей темы (<code>themes/%s</code>)."
+
+#: wp-paginate.php:340
+msgid "WP-Paginate CSS File:"
+msgstr "WP-Paginate CSS-файл:"
+
+#: wp-paginate.php:337
+msgid "Show Before Markup and After Markup, even if the page list is empty?"
+msgstr "Показывать до разметки и после разметки, даже если список страниц пуст?"
+
+#: wp-paginate.php:335
+msgid "Markup Display:"
+msgstr "Отображение разметки:"
+
+#: wp-paginate.php:332
+msgid "The HTML markup to display after the pagination code."
+msgstr "HTML-разметка, отображаемая после кода разбиения на страницы."
+
+#: wp-paginate.php:330
+msgid "After Markup:"
+msgstr "После разметки:"
+
+#: wp-paginate.php:327
+msgid "The HTML markup to display before the pagination code."
+msgstr "HTML-разметка, отображаемая перед кодом разбиения на страницы."
+
+#: wp-paginate.php:325
+msgid "Before Markup:"
+msgstr "Перед разметкой:"
+
+#: wp-paginate.php:322
+msgid "Advanced Settings"
+msgstr "Расширенные настройки"
+
+#: wp-paginate.php:318
+msgid "The text/HTML to display for the next page link."
+msgstr "Текст/HTML для отображения ссылки на следующую страницу."
+
+#: wp-paginate.php:316
+msgid "Next Page:"
+msgstr "Следующая страница:"
+
+#: wp-paginate.php:313
+msgid "The text/HTML to display for the previous page link."
+msgstr "Текст/HTML, отображаемый для ссылки на предыдущую страницу."
+
+#: wp-paginate.php:311
+msgid "Previous Page:"
+msgstr "Предыдущая страница:"
+
+#: wp-paginate.php:308
+msgid "The text/HTML to display before the list of pages."
+msgstr "Текст/HTML, отображаемый перед списком страниц."
+
+#: wp-paginate.php:306
+msgid "Pagination Label:"
+msgstr "Этикетка разбиения на страницы:"
+
+#: wp-paginate.php:294
+msgid "Whoops! There was a problem with the data you posted. Please try again."
+msgstr "Ой! Возникла проблема с опубликованными вами данными. Пожалуйста, попробуйте еще раз."
+
+#: wp-paginate.php:291
+msgid "Success! Your changes were successfully saved!"
+msgstr "Отлично! Ваши изменения были успешно сохранены!"
+
+#: wp-paginate.php:266
+msgid "Settings"
+msgstr "Настройки"

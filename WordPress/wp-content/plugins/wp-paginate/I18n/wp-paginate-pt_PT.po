@@ -1,0 +1,472 @@
+# Translation of the WordPress plugin WP-Paginate 1.1.2 by Noah Cinquini.
+# Copyright 2014 Studio Fuel (http://www.studiofuel.com)
+# This file is distributed under the same license as the WP-Paginate package.
+# Noah Cinquini <noah@studiofuel.com>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-Paginate 2.1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp-paginate\n"
+"POT-Creation-Date: 2020-09-10 21:05+0100\n"
+"PO-Revision-Date: 2020-09-10 21:07+0100\n"
+"Last-Translator: OP351net <webmaster@op351.com>\n"
+"Language-Team: OP351net <webmaster@op351.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wp-paginate.php:130
+msgid "Function only"
+msgstr "Função apenas"
+
+#: ../wp-paginate.php:131
+msgid "Below the Content"
+msgstr "Abaixo do conteúdo"
+
+#: ../wp-paginate.php:132
+msgid "Above the Content"
+msgstr "Acima do conteúdo"
+
+#: ../wp-paginate.php:133
+msgid "Above and Below the Content"
+msgstr "Acima e abaixo do conteúdo"
+
+#: ../wp-paginate.php:137
+msgid "inherit"
+msgstr "herdada"
+
+#: ../wp-paginate.php:138
+msgid "initial"
+msgstr "inicial"
+
+#: ../wp-paginate.php:139
+msgid "Arial"
+msgstr "Arial"
+
+#: ../wp-paginate.php:140
+msgid "Georgia"
+msgstr "Georgia"
+
+#: ../wp-paginate.php:141
+msgid "Tahoma"
+msgstr "Tahoma"
+
+#: ../wp-paginate.php:142
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: ../wp-paginate.php:143
+msgid "Trebuchet MS"
+msgstr "Trebuchet MS"
+
+#: ../wp-paginate.php:144
+msgid "Verdana"
+msgstr "Verdana"
+
+#: ../wp-paginate.php:148
+msgid "Grey Buttons"
+msgstr "Botões Cinzentos"
+
+#: ../wp-paginate.php:149
+msgid "Blue Buttons"
+msgstr "Botões Azuis"
+
+#: ../wp-paginate.php:150
+msgid "Modern Grey Buttons"
+msgstr "Botões Cinzentos Modernos"
+
+#: ../wp-paginate.php:151
+msgid "Neon Pink Buttons"
+msgstr "Botões Rosa Neon"
+
+#: ../wp-paginate.php:535 ../wp-paginate.php:593
+msgid "Settings"
+msgstr "Definições"
+
+#: ../wp-paginate.php:580
+msgid "Success! Your changes were successfully saved!"
+msgstr "Sucesso! As suas alterações foram gravadas com sucesso!"
+
+#: ../wp-paginate.php:583
+msgid "Whoops! There was a problem with the data you posted. Please try again."
+msgstr ""
+"Uuups! Houve um problema com os dados publicados. Por favor tente de novo."
+
+#: ../wp-paginate.php:594
+msgid "Custom CSS"
+msgstr "CSS Personalizado"
+
+#: ../wp-paginate.php:595
+msgid "Upgrade to Pro"
+msgstr "Atualize para o Pro"
+
+#: ../wp-paginate.php:603
+msgid "General"
+msgstr "Geral"
+
+#: ../wp-paginate.php:606
+msgid "Pagination Label:"
+msgstr "Etiqueta de Paginação:"
+
+#: ../wp-paginate.php:608
+msgid "The optional text/HTML to display before the list of pages."
+msgstr "O text/HTML opcional para mostrar antes da lista de páginas."
+
+#: ../wp-paginate.php:611
+msgid "Previous Page:"
+msgstr "Página Anterior:"
+
+#: ../wp-paginate.php:613
+msgid "The text/HTML to display for the previous page link."
+msgstr "O text/HTML para mostrar no link de página anterior."
+
+#: ../wp-paginate.php:616
+msgid "Next Page:"
+msgstr "Próxima Página:"
+
+#: ../wp-paginate.php:618
+msgid "The text/HTML to display for the next page link."
+msgstr "O text/HTML para mostrar no link de próxima página."
+
+#: ../wp-paginate.php:622
+msgid "Location &amp; Position"
+msgstr "Lugar &amp; Posição"
+
+#: ../wp-paginate.php:625
+msgid "Everywhere:"
+msgstr "Em todo o lado:"
+
+#: ../wp-paginate.php:633
+msgid "Display pagination everywhere. (Comments pagination not included.)"
+msgstr ""
+"Mostrar paginação em todos os lugares. (Paginação nos Comentários não "
+"incluída.)"
+
+#: ../wp-paginate.php:636
+msgid "Home Page:"
+msgstr "Página Inicial:"
+
+#: ../wp-paginate.php:644
+msgid "Display pagination on the home page."
+msgstr "Mostrar paginação na página inicial."
+
+#: ../wp-paginate.php:647
+msgid "Blog Page:"
+msgstr "Página de Blog:"
+
+#: ../wp-paginate.php:655
+msgid "Display pagination on the blog page."
+msgstr "Mostrar paginação na página do blog."
+
+#: ../wp-paginate.php:658
+msgid "Search Page:"
+msgstr "Página de Pesquisa:"
+
+#: ../wp-paginate.php:666
+msgid "Display pagination on the search page."
+msgstr "Mostrar paginação na página de pesquisa."
+
+#: ../wp-paginate.php:669
+msgid "Category Pages:"
+msgstr "Páginas de Categoria:"
+
+#: ../wp-paginate.php:677
+msgid "Display pagination on category pages."
+msgstr "Mostrar paginação nas páginas de categoria."
+
+#: ../wp-paginate.php:680
+msgid "Archive Pages:"
+msgstr "Páginas de Arquivo:"
+
+#: ../wp-paginate.php:688
+msgid "Display pagination on archive pages."
+msgstr "Mostrar paginação nas páginas de arquivo."
+
+#: ../wp-paginate.php:713
+msgid "Position:"
+msgstr "Posição:"
+
+#: ../wp-paginate.php:727
+msgid "Where to display the pagination on the page."
+msgstr "Onde mostrar a paginação na página."
+
+#: ../wp-paginate.php:730
+msgid "Hide Standard Pagination:"
+msgstr "Ocultar Paginação Standard:"
+
+#: ../wp-paginate.php:738
+msgid "Hide the standard theme default pagination."
+msgstr "Ocultar a paginação original do tema padrão."
+
+#: ../wp-paginate.php:742
+msgid "Appearance"
+msgstr "Aspeto"
+
+#: ../wp-paginate.php:745
+msgid "Pagination Font:"
+msgstr "Font da Paginação:"
+
+#: ../wp-paginate.php:759
+msgid "Select the font to use with the pagination."
+msgstr "Selecione qual a FONT a usar na paginação."
+
+#: ../wp-paginate.php:762
+msgid "Hide Ellipses:"
+msgstr "Ocultar Reticências:"
+
+#: ../wp-paginate.php:770
+msgid "Remove ellipses from the pagination links."
+msgstr "Remover reticências nos links da paginação."
+
+#: ../wp-paginate.php:773
+msgid "Button Style:"
+msgstr "Estilo de Botão:"
+
+#: ../wp-paginate.php:783
+msgid "Choose a preset style from the list below."
+msgstr "Escolha uma pré-definição na seguinte lista."
+
+#: ../wp-paginate.php:803
+msgid "Advanced Settings"
+msgstr "Definições Avançadas"
+
+#: ../wp-paginate.php:806
+msgid "Before Markup:"
+msgstr "Antes do Markup:"
+
+#: ../wp-paginate.php:808
+msgid "The HTML markup to display before the pagination code."
+msgstr "O markup HTML a mostrar antes do código da paginação."
+
+#: ../wp-paginate.php:811
+msgid "After Markup:"
+msgstr "Após o Markup:"
+
+#: ../wp-paginate.php:813
+msgid "The HTML markup to display after the pagination code."
+msgstr "O markup HTML a mostrar depois do código da paginação."
+
+#: ../wp-paginate.php:816
+msgid "Markup Display:"
+msgstr "Amostragem do Markup:"
+
+#: ../wp-paginate.php:818
+msgid "Show Before Markup and After Markup, even if the page list is empty?"
+msgstr ""
+"Mostrar Antes do Markup e Após o Markup mesmo que a lista de páginas esteja "
+"vazia?"
+
+#: ../wp-paginate.php:821
+msgid "WP-Paginate CSS File:"
+msgstr "Ficheiro CSS do WP-Paginate:"
+
+#: ../wp-paginate.php:823
+#, php-format
+msgid ""
+"Include the default stylesheet wp-paginate.css? WP-Paginate will first look "
+"for <code>wp-paginate.css</code> in your theme directory (<code>themes/%s</"
+"code>)."
+msgstr ""
+"Incluir o ficheiro original wp-paginate.css? WP-Paginate irá primeiro "
+"procurar <code>wp-paginate.css</code> no diretório do seu tema (<code>themes/"
+"%s</code>)."
+
+#: ../wp-paginate.php:830
+msgid "Add trailing slash:"
+msgstr "Adicionar uma barra final:"
+
+#: ../wp-paginate.php:832
+msgid "Adds a trailing slash to the end of pagination links."
+msgstr "Adiciona uma barra final no fim dos links de paginação."
+
+#: ../wp-paginate.php:836
+msgid "Page Range:"
+msgstr "Intervalo de Páginas:"
+
+#: ../wp-paginate.php:843
+msgid ""
+"The number of page links to show before and after the current page. "
+"Recommended value: 3"
+msgstr ""
+"O número de links de página para mostrar antes e depois da página corrente. "
+"Valor recomendado: 3"
+
+#: ../wp-paginate.php:846
+msgid "Page Anchors:"
+msgstr "Links de Página:"
+
+#: ../wp-paginate.php:853
+msgid ""
+"The number of links to always show at beginning and end of pagination. "
+"Recommended value: 1"
+msgstr ""
+"O número de links de página para mostrar sempre no princípio e fim da "
+"paginação. Valor recomendado: 1"
+
+#: ../wp-paginate.php:856
+msgid "Page Gap:"
+msgstr "Separação de Página:"
+
+#: ../wp-paginate.php:863
+msgid ""
+"The minimum number of pages in a gap before an ellipsis (...) is added. "
+"Recommended value: 3"
+msgstr "O número mínimo de páginas na separação antes das reticências (…)"
+
+#: ../wp-paginate.php:867 ../wp-paginate.php:1027
+msgid "Save Changes"
+msgstr "Gravar Alterações"
+
+#: ../wp-paginate.php:908
+msgid "Need Support?"
+msgstr "Precisa de Ajuda?"
+
+#: ../wp-paginate.php:909
+#, php-format
+msgid ""
+"For questions, issues or feature requests, please post them in the %s and "
+"make sure to tag the post with wp-paginate."
+msgstr ""
+"Para perguntas, problemas ou pedidos de funções, por favor publique-os em %s "
+"e assegure que os relaciona (tag) com o wp-paginate."
+
+#: ../wp-paginate.php:913
+msgid "WP Paginate is Maintained and Upgraded by Max Foundry"
+msgstr "WP Paginate é mantido e atualizado por Max Foundry"
+
+#: ../wp-paginate.php:914
+msgid "Developed Originally by Eric Martin"
+msgstr "Desenvolvimento original de Eric Martin"
+
+#: ../wp-paginate.php:915
+msgid "Max Foundry Produces These Other Fine Plugins"
+msgstr "Max Foundry produz também os seguintes Plugins"
+
+#: ../wp-paginate.php:922
+msgid "WordPress Button Plugin"
+msgstr "Plugin Botão de Wordpress"
+
+#: ../wp-paginate.php:930
+msgid "WordPress Gallery Plugin"
+msgstr "Plugin Galeria Wordpress"
+
+#: ../wp-paginate.php:938
+msgid "WordPress Media Library Folders"
+msgstr "Plugin Pastas de Livrarias de Media"
+
+#: ../wp-paginate.php:955
+msgid "You do not have sufficient permissions to edit plugins for this site."
+msgstr "Não tem permissões suficientes para editar plugins neste site."
+
+#: ../wp-paginate.php:984
+#, php-format
+msgid "File %s edited successfully."
+msgstr "Ficheiro %s editado com sucesso."
+
+#: ../wp-paginate.php:986
+msgid "Not enough permissions to create or update the file"
+msgstr "Sem permissões suficientes para criar ou atualizar o ficheiro"
+
+#: ../wp-paginate.php:997
+msgid "Learn more"
+msgstr "Saiba mais"
+
+#: ../wp-paginate.php:1013
+msgid "These styles will be added to the header on all pages of your site."
+msgstr ""
+"Estes estilos serão adicionados ao cabeçalho de todas as páginas do seu site."
+
+#: ../wp-paginate.php:1017
+msgid "Editing"
+msgstr "Editando"
+
+#: ../wp-paginate.php:1019
+msgid "Browsing"
+msgstr "Pesquisando"
+
+#: ../wp-paginate.php:1022
+msgid "Activate"
+msgstr "Ativar"
+
+#: ../wp-paginate.php:1031
+#, php-format
+msgid ""
+"You need to make this files writable before you can save your changes. See "
+"%s the Codex %s for more information."
+msgstr ""
+"Tem que garantir que estes ficheiros são regraváveis antes de poder gravar "
+"as suas alterações. Ver %s o Codex %s para mais informações."
+
+#: ../wp-paginate.php:1137
+msgid "Love WP-Paginate?"
+msgstr "Gosta do WP-Paginate?"
+
+#: ../wp-paginate.php:1138
+msgid "Your rating is a big help! We really appreciate it!"
+msgstr "A sua avaliação é uma grande ajuda! Apreciamo-la bastante!"
+
+#: ../wp-paginate.php:1141
+msgid "I've already left a review"
+msgstr "Já fiz uma crítica"
+
+#: ../wp-paginate.php:1142
+msgid "Maybe Later"
+msgstr "Talvez Mais Tarde"
+
+#: ../wp-paginate.php:1143
+msgid "Sure! I'd love to!"
+msgstr "Claro, com todo o gosto!"
+
+#: ../wp-paginate.php:1155
+msgid "missing nonce!"
+msgstr "falta o N-Once!"
+
+#: ../wp-paginate.php:1169
+msgid "missing nonce! Please refresh the page."
+msgstr "falta o N-Once! Por favor recarregue a página."
+
+#: ../wp-paginate.php:1187
+msgid "maxfoundry logo"
+msgstr "logo do MaxFoundry"
+
+#: ../wp-paginate.php:1192
+msgid "WP PAGINATE PRO"
+msgstr "WP PAGINATE PRO"
+
+#: ../wp-paginate.php:1195 ../wp-paginate.php:1217
+msgid "buy now button"
+msgstr "botão \"compre agora\""
+
+#: ../wp-paginate.php:1198
+msgid "wp-pagination pro logo"
+msgstr "logo do WP-Pagination Pro"
+
+#: ../wp-paginate.php:1201
+msgid ""
+"WP-Paginate Pro come with 11 Beautiful<br>Preset Layouts and Multi Site "
+"support!"
+msgstr ""
+"WP-Paginate Pro contém 11 Bonitos<br>Layouts Pré-definidos e ajuda Multi "
+"Site!"
+
+#: ../wp-paginate.php:1205
+msgid "WP Pagination Pro buttons styles"
+msgstr "Estilos de botão do \"WP Pagination Pro\""
+
+#: ../wp-paginate.php:1209
+msgid ""
+"Use These Customizer Settings to Get the<br>Exact Look and Feel You Want"
+msgstr ""
+"Use estas Definições de Personalização para obter<br>o sentir e o aspeto que "
+"prefere"
+
+#: ../wp-paginate.php:1213
+msgid "WP Pagination Por button Style customizer"
+msgstr "Personalizador de estilo do botão \"WP pagination Pro\""
